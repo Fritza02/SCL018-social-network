@@ -73,7 +73,8 @@ Historias de usuario
 * https://www.loom.com/share/df56d04d023046528e285f12f55ab51d
 ## 6. Enlace página
 
-* 
+* https://social-network-book-love-20980.web.app/#/login
+
 ## :pencil: Creado por
 **Stefanya Pulgar Baeza** -**Fritza Véliz Zirricueta** - **Ysandys Pérez Garcia**
 
