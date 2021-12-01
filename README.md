@@ -1,11 +1,11 @@
 ## Índice
 
 * [1. Book Lovers](#1-Book-Lovers)
-* [2. Interfaz](#3-Interfaz)
-* [3. Prototipos](#4-Prototipos)
-* [4. Historias de usuarios](#5-Historias-de-usuarios)
-* [5. Test de usabilidad](#6-Test-de-usabilidad)
-* [6. Enlace página](#7-Enlace-página)
+* [2. Interfaz](#2-Interfaz)
+* [3. Prototipos](#3-Prototipos)
+* [4. Historias de usuarios](#4-Historias-de-usuarios)
+* [5. Test de usabilidad](#5-Test-de-usabilidad)
+* [6. Enlace página](#6-Enlace-página)
 
 ## 1. Descripción Book Lovers
 
